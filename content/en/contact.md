@@ -1,27 +1,27 @@
 ---
-title: Contact us
+title: Contact Us
 ---
+
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Contact us
+# Get in Touch
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+We're always happy to hear from you. Whether you have a question, a prayer request, or simply want to connect, feel free to reach out.
 
 {{< /brick_title >}}
+
 {{< brick_contact >}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Thank you for visiting **The Living Directory**.
 
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+If you’d like to collaborate, share a testimony, or ask a question, please use the form or contact us directly.
 
-joost@vdschee.nl  
-+31 618 518 928
+**The Living Directory**  
+
 
 {{< socialbuttons >}}
 
 {{< /brick_contact >}}
-{{< brick_map >}}{{< /brick_map >}}
+

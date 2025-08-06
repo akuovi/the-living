@@ -1,10 +1,9 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## Begin Your Journey with Purpose!
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+Embrace a life rooted in faith, stillness, and intentional living. Explore devotionals, tools, and spiritual reflections that help you reconnect with what truly matters.
+{{< button2 "Read the Blog" "/blog" >}}
 
-{{< button2 "Get started now" "/get-started/" >}}
-
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cuate/blog.svg)

@@ -1,61 +1,61 @@
 ---
-title: blocks
+title: Blocks
 ---
 
-## Alternative services 1
+## Spirit-Led Resources
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+Explore a series of faith-centered offerings created to strengthen your walk, nourish your soul, and equip you with tools for purposeful living.
 
 ---
 
 ![](/uploads/gallery/01.jpg)
-### Covers all components
+### Rooted in Grace
 
-Includes many bricks.
+Discover journals, devotionals, and tools aligned with timeless spiritual principles.
 
-[](/services/)
+[](/storehouse/)
 
 ---
 
 ![](/uploads/gallery/02.jpg)
-### 99+ Google Lighthouse score
+### Grounded & Clear
 
-Lightning fast website.
+Designed with clarity and simplicity for meaningful engagement.
 
-[](/services/)
+[](/storehouse/)
 
 ---
 
 ![](/uploads/gallery/03.jpg)
-### Themeable through CSS variables
+### Spiritually Customizable
 
-Easily themeable.
+Resources that adapt to your personal rhythm and sacred seasons.
 
-[](/services/)
+[](/storehouse/)
 
 ---
 
 ![](/uploads/gallery/04.jpg)
-### Fully responsive on all devices
+### Accessible Anytime, Anywhere
 
-Works on every screen.
+Whether on desktop or phone, your journey continues seamlessly.
 
-[](/services/)
+[](/storehouse/)
 
 ---
 
 ![](/uploads/gallery/05.jpg)
-### Super fast builds and deploys
+### Intentionally Crafted
 
-Extremely fast.
+Quick to use, slow to fade—content that stays with you.
 
-[](/services/)
+[](/storehouse/)
 
 ---
 
 ![](/uploads/photos/06.jpg)
-### 10+ pre-build pages
+### A Growing Collection
 
-Start with the end result.
+From daily devotionals to sacred reflections — new additions regularly.
 
-[](/services/)
+[](/storehouse/)

@@ -1,27 +1,42 @@
-action: /form.php
+action: https://formsubmit.co/kedsvid@gmail.com
 placeholders: false
 fields: 
-- name: title
-  input_type: html
-  label: <h3>Enter your details below</h3>
-  required: true
-- name: name
-  input_type: text
-  label: Name
-  required: true
-- name: email
-  input_type: email
-  label: Email address
-  required: true
-- name: message
-  input_type: textarea
-  label: Message
-  required: false
-- name: terms
-  input_type: checkbox
-  label: I accept the terms and conditions
-  required: true
-- name: submit
-  input_type: submit
-  label: Submit form
-  required: true
+  - name: title
+    input_type: html
+    label: <h3>Enter your details below</h3>
+    required: true
+
+  - name: _next
+    input_type: hidden
+    label: https://thelivingdirectory.com/thank-you/
+    required: false
+
+  - name: _honey
+    input_type: text
+    label: Do not Fill this 
+    required: false
+
+  - name: name
+    input_type: text
+    label: Name
+    required: true
+
+  - name: email
+    input_type: email
+    label: Email address
+    required: true
+
+  - name: message
+    input_type: textarea
+    label: Message
+    required: false
+
+  - name: terms
+    input_type: checkbox
+    label: I accept the terms and conditions
+    required: true
+
+  - name: submit
+    input_type: submit
+    label: Submit form
+    required: true

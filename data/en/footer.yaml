@@ -1,11 +1,17 @@
 logo_image:
 menuitems:
   - title: About
-    link:  /about/
-  - title: Elements
-    link:  /elements/
-  - title: Privacy policy
-    link:  /privacy-policy/
+    link: /about/
+  - title: Blog
+    link: /blog/
+  - title: Devotionals
+    link: /devotionals/
+  - title: Storehouse
+    link: /docs/
+  - title: Give
+    link: /give/
+  - title: Privacy
+    link: /privacy-policy/
 socials:
   - title: Facebook
     link: https://facebook.com
@@ -19,4 +25,4 @@ socials:
   - title: Instagram
     link: https://instagram.com
     logo_image: /img/instagram.svg
-footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
+footer_text: © 2025 The Living Directory. Faithfully created for seekers and believers. Explore more on [TheLivingDirectory.com](https://thelivingdirectory.com) This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!

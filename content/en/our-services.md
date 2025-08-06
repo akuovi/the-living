@@ -1,129 +1,71 @@
 ---
-title: Services
+title: The Storehouse of Grace
 ---
+
 {{< brick_services >}}
 
 {{< breadcrumbs >}}
 
 # Services
 
-This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+At The Living Directory, our offerings are rooted in faith, clarity, and spiritual growth. Whether you're seeking devotionals, journals, biblical tools, or sacred downloads, each service is thoughtfully prepared to help you live with intention and grace.
 
 {{< /brick_services >}}
+
 {{< brick_blocks >}}
 
-## Alternative services 1
+## Additional Ways We Serve
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-![](/uploads/gallery/01.jpg)
-### Covers all components
-
-Includes many bricks.
-
-[](/our-services/)
+We continue to expand our offerings with meaningful resources grounded in scripture, reflection, and daily devotion.
 
 ---
 
-![](/uploads/gallery/02.jpg)
-### 99+ Google Lighthouse score
+### Devotionals with Depth
 
-Lightning fast website.
+Daily, weekly, and seasonal series to anchor your heart in God's Word.
 
-[](/our-services/)
-
----
-
-![](/uploads/gallery/03.jpg)
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/our-services/)
+[](/devotionals/)
 
 ---
 
-![](/uploads/gallery/04.jpg)
-### Fully responsive on all devices
+### Sacred Journals
 
-Works on every screen.
+Tools for gratitude, goal setting, and guided biblical reflection.
 
-[](/our-services/)
-
----
-
-![](/uploads/gallery/05.jpg)
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/our-services/)
+[](docs/journals/)
 
 ---
 
-![](/uploads/photos/06.jpg)
-### 10+ pre-build pages
+### Downloads & Tools
 
-Start with the end result.
+Printables, verse cards, planners, and resources for your spiritual routine.
 
-[](/our-services/)
+[](docs/downloads/)
+
+---
+
+### Bible Study Aids
+
+KJV resources and guides to deepen your understanding of Scripture.
+
+[](docs/getting-started/)
+
+---
+
+### Peaceful Focus Tools
+
+Faith-aligned practices and prompts to foster focus through stillness.
+
+[](docs/storehouse/)
+
+---
+
+### Seasonal Grace Projects
+
+Special collections and spiritual prompts for each season of life.
+
+[](docs/storehouse/)
 
 {{< /brick_blocks >}}
-{{< brick_blocks >}}
 
-## Alternative services 2
-
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-### Covers all components
-
-Includes many bricks.
-
-[](/our-services/)
-
----
-
-### 99+ Google Lighthouse score
-
-Lightning fast website.
-
-[](/our-services/)
-
----
-
-### Themeable through CSS variables
-
-Easily themeable.
-
-[](/our-services/)
-
----
-
-### Fully responsive on all devices
-
-Works on every screen.
-
-[](/our-services/)
-
----
-
-### Super fast builds and deploys
-
-Extremely fast.
-
-[](/our-services/)
-
----
-
-### 10+ pre-build pages
-
-Start with the end result.
-
-[](/our-services/)
-
-{{< /brick_blocks >}}
 {{< brick_cta >}}{{< /brick_cta >}}

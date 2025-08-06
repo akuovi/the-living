@@ -1,4 +1,4 @@
-baseURL: https://www.hugobricks.preview.usecue.com
+baseURL: https://thelivingdirectory.com
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
@@ -31,8 +31,8 @@ languages:
     permalinks:
       page:
         posts: /blog/:slug
-        services: /services/:slug
-        products: /webshop/:slug
+        services: /services/:slug/
+        products: /webshop/:slug/
       section:
         posts: /blog/
         services: /services/
@@ -45,8 +45,8 @@ languages:
     permalinks:
       page:
         posts: /blog/:slug
-        services: /diensten/:slug
-        products: /winkel/:slug
+        services: /diensten/:slug/
+        products: /winkel/:slug/
       section:
         posts: /blog/
         services: /diensten/

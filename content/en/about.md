@@ -3,11 +3,23 @@ title: About
 ---
 {{< brick_about >}}
 
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+{{< colorize_image "This is not me" "/uploads/photos/avatars/aboutus.png" >}}
 
-# Hey, my name is Joost
+# Welcome to The Living Directory — your sanctuary for stillness, strength, and spiritual growth.
 
-Together with my friend 'Fenix' I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. The guy in the picture is not me, but an avatar from the internet. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. 
+At The Living Directory, we believe that a meaningful life begins with quiet reflection and purposeful action. In a world full of noise and distraction, our mission is to help you slow down, focus, and reconnect with what truly matters.
+
+Rooted in Christian faith, our platform offers thoughtfully designed resources to nurture your inner life — from guided journals and devotional tools to books and video reflections that encourage a deeper walk with God.
+
+Each offering is crafted to inspire clarity, peace, and spiritual resilience. Whether you’re seeking focus through stillness, insight through Scripture, or the daily encouragement to walk your own path, we’re here to walk with you.
+
+We are more than a brand — we are a living directory for the soul.At The Living Directory, we believe that a meaningful life begins with quiet reflection and purposeful action. In a world full of noise and distraction, our mission is to help you slow down, focus, and reconnect with what truly matters.
+
+Rooted in Christian faith, our platform offers thoughtfully designed resources to nurture your inner life — from guided journals and devotional tools to books and video reflections that encourage a deeper walk with God.
+
+Each offering is crafted to inspire clarity, peace, and spiritual resilience. Whether you’re seeking focus through stillness, insight through Scripture, or the daily encouragement to walk your own path, we’re here to walk with you.
+
+We are more than a brand — we are a living directory for the soul. 
 
 {{< socialbuttons >}}
 

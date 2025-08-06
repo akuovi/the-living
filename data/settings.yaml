@@ -1,4 +1,4 @@
-favicon_image: /uploads/branding/brick_icon2_bw.svg
+favicon_image: /uploads/branding/logo.svg
 color_name:
 sticky_header: true
 dark_header: false
@@ -9,6 +9,6 @@ filter_has_numbers: true
 page_size: 3
 show_all_services: true
 preheader: 
-  active: true
+  active: false
   is_light: true
 enable_search: false

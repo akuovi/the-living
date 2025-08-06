@@ -8,9 +8,9 @@ title: map
 
 ## Contact us
 
-Usecue BV  
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+The Living Directory  
+130 Jakhama Town  
+Kohima 797001
+Nagaland
 
 {{< contactbuttons >}}

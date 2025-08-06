@@ -1,27 +1,51 @@
-action: /form.php
+action: https://api.web3forms.com/submit
 placeholders: false
 fields: 
-- name: title
-  input_type: html
-  label: <h3>Tell us a bit about yourself</h3>
-  required: true
-- name: name
-  input_type: text
-  label: Name
-  required: true
-- name: email
-  input_type: email
-  label: Email address
-  required: true
-- name: message
-  input_type: textarea
-  label: Message
-  required: false
-- name: terms
-  input_type: checkbox
-  label: I accept the terms and conditions
-  required: true
-- name: submit
-  input_type: submit
-  label: Submit form
-  required: true
+  - name: access_key
+    input_type: hidden
+    label: ""
+    required: true
+    value: 07db1b2a-317b-4218-ab19-55a516c001ab
+
+  - name: redirect
+    input_type: hidden
+    label: ""
+    required: false
+    value: /thank-you/
+
+  # Honeypot field (spam protection)
+  - name: honeypot
+    input_type: hidden
+    label: ""
+    required: false
+    value: ""
+
+  - name: title
+    input_type: html
+    label: <h3>Tell us a bit about yourself</h3>
+    required: true
+
+  - name: name
+    input_type: text
+    label: Name
+    required: true
+
+  - name: email
+    input_type: email
+    label: Email address
+    required: true
+
+  - name: message
+    input_type: textarea
+    label: Message
+    required: false
+
+  - name: terms
+    input_type: checkbox
+    label: I accept the terms and conditions
+    required: true
+
+  - name: submit
+    input_type: submit
+    label: Submit form
+    required: true

@@ -2,10 +2,10 @@
 title: intro
 ---
 
-# The Ultimate Theme You Need To Start Your Hugo Website
+# Build with Purpose. Share with Grace.
 
-Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.
+The Living Directory is more than a website — it’s a spiritual resource hub designed to uplift, equip, and inspire. Whether you're exploring devotionals, journals, or tools for quiet reflection, everything here is crafted to guide your journey with clarity and intention.
 
-{{< button "Get started for free" "/get-started/" >}}
+{{< button "Begin Your Journey" "/storehouse/" >}}
 
 ![](/uploads/brick_intro.png)

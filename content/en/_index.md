@@ -1,150 +1,82 @@
 ---
 title: Home
 ---
-{{< brick_intro >}}
 
-# Build your next Hugo website with stackable content bricks
+{{< brick_title2 >}}
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+# Walk in Grace and Grow with Purpose
 
-{{< button "Get started for free" "/get-started/" >}}
+**The Living Directory** is your faith-based guide to spiritual reflection, personal growth, and purposeful living. Built on Hugo using the Hugobricks theme, our site is a sanctuary of curated resources, devotionals, journals, and inspiration—designed to uplift and empower your daily journey.
 
-![](/uploads/illustrations/cuate/assets.svg)
+{{< button "Explore Our Devotionals" "/devotionals/" >}}
 
-{{< /brick_intro >}}
+![](/uploads/front/nature.jpg)
+
+{{< /brick_title2 >}}
+{{< brick_image >}}
+
+## What You’ll Discover Here
+
+![](/uploads/front/bible-pen.jpg)
+
+Our website offers more than just content—it’s a spiritual companion. With beautifully designed sections powered by Hugobricks, you’ll find:
+
+- Thoughtfully written **devotionals** and reflections  
+- Guided **journals** to deepen your daily walk  
+- A growing **library of spiritual tools**  
+- Responsive design for peaceful browsing anywhere  
+- A clean, distraction-free space to reflect and reconnect  
+
+{{< /brick_image >}}
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## Rooted in Scripture, Built for You  
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/front/open-journal.jpg)
 
-Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+Every resource here is prayerfully created to help you stay grounded in God’s Word and grow in your faith journey. Whether you are seeking guidance, inspiration, or practical tools for your spiritual walk, our heart is to provide a place where grace meets growth.  
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+We invite you to:  
+
+{{< button "Browse Our Storehouse" "/docs/" >}}  
+{{< button "Read Our Devotionals" "/devotionals/" >}}  
+{{< button "Partner With Us in Giving" "/give/" >}}  
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## What bricks are available?
+## A Labor of Love and Light  
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/front/light-through-trees.jpg)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
-
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+This platform was prayerfully built as a space to pause, breathe, and return to the heart of your spiritual journey. Whether you’re reading a devotional, journaling through grief or grace, or exploring scripture, we hope you feel at home here.  
 
 {{< /brick_image >}}
-{{< brick_reviews >}}{{< /brick_reviews >}}
-{{< brick_features >}}
+{{< brick_quote >}}
 
-## The Ultimate Hugo theme
+## "This site became part of my morning quiet time."
+— &nbsp;A grateful reader
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+![](/uploads/front/morning-coffee-bible.jpg)
 
----
+{{< /brick_quote >}}
 
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+{{< brick_posts >}}
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+# Latest Writings  
 
----
+Stay connected with our newest posts on scripture, purpose, and spiritual practice.
 
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+{{< /brick_posts >}}
+{{< brick_title >}}
 
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+![](/uploads/photos/books/books.jpg)
 
----
+# Our Books, Devotional Tools and Bible KJV  
+{{< button "Explore Our Storehouse" "/docs/" >}}
 
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+{{< breadcrumbs >}}
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+{{< /brick_title >}}
 
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
-
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
-
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
-{{< /brick_features >}}
-{{< brick_prices >}}
-
-## Our friendly pricing
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-**budget**
-### Open-source
-
-Full-featured theme/page builder to create super fast & amazing website
-
-### _$_**0**/month
-
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-
-[Get started](/get-started/)
-
----
-
-**most popular**
-
-### Hosted
-
-Everything in one toolkit – We host your website on our top-notch infrastructure.
-
-### _$_**25**/month
-
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-- Form handling + notifications
-- CMS system for editors
-
-[Yes, pick me!](/get-started/)
-
----
-
-**everything**
-
-### Enterprise
-
-Get exceptional value and cost savings with our complete products suite.
-
-### _$_**75**/month
-
-- All other features plus:
-- High priority support 
-- Theme adjustments
-- Custom bricks (on request)
-
-[Contact us](/get-started/)
-
-{{< /brick_prices >}}
 {{< brick_cta >}}{{< /brick_cta >}}

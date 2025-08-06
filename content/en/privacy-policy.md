@@ -1,33 +1,90 @@
 ---
 title: Privacy policy
 ---
+
 {{< brick_title >}}
 
-# Privacy policy
+# Privacy Policy
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Your privacy is important to us. This policy explains what personal data we collect, how we use it, and your rights regarding your data on **TheLivingDirectory.com**.
 
 {{< /brick_title >}}
+
 {{< brick_wide >}}
 
-## Article 1
+## 1. Information We Collect
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis. Quisque aliquet orci quis massa scelerisque gravida. Cras maximus lacus et orci lacinia fermentum. Integer venenatis bibendum condimentum. Maecenas non rutrum magna. Sed varius metus sit amet augue condimentum, quis faucibus nulla tempor. Phasellus nec ipsum dolor. Aliquam non maximus orci.
+We collect personal information that you voluntarily provide, including:
+- Your name and email address (e.g., when signing up for newsletters or filling out contact forms)
+- Data about your visit (e.g., browser type, device, IP address, pages viewed), via analytics tools and cookies
 
-### Article 1.1
+We may also collect non-personal, anonymized usage data to improve the user experience.
 
-Integer sollicitudin dui quis nibh tincidunt, et pharetra nulla varius. Vestibulum malesuada quam dapibus lacus molestie, sed maximus nulla sagittis. Ut dui quam, convallis eu justo quis, posuere sodales dolor. Maecenas eu sem et purus finibus auctor in vel dolor. Fusce vitae diam pellentesque, suscipit nisl nec, varius erat. Curabitur condimentum mauris ut sapien rhoncus, quis venenatis purus pulvinar. Ut in imperdiet augue, et porttitor magna. Praesent euismod urna ut lectus pretium suscipit. Sed nec mauris in nunc condimentum viverra. Praesent vitae hendrerit sem, eu suscipit arcu. Ut sollicitudin dolor lacus, nec interdum purus volutpat in. Phasellus aliquet quis nunc vitae maximus.
+---
 
-### Article 1.2
+## 2. How We Use Your Information
 
-Integer sollicitudin dui quis nibh tincidunt, et pharetra nulla varius. Vestibulum malesuada quam dapibus lacus molestie, sed maximus nulla sagittis. Ut dui quam, convallis eu justo quis, posuere sodales dolor. Maecenas eu sem et purus finibus auctor in vel dolor. Fusce vitae diam pellentesque, suscipit nisl nec, varius erat. Curabitur condimentum mauris ut sapien rhoncus, quis venenatis purus pulvinar. Ut in imperdiet augue, et porttitor magna. Praesent euismod urna ut lectus pretium suscipit. Sed nec mauris in nunc condimentum viverra. Praesent vitae hendrerit sem, eu suscipit arcu. Ut sollicitudin dolor lacus, nec interdum purus volutpat in. Phasellus aliquet quis nunc vitae maximus.
+We use your information to:
+- Send newsletters, devotionals, and updates (if you opt in)
+- Respond to your messages and inquiries
+- Improve our site and understand user behavior
+- Ensure website security and prevent spam or abuse
 
-## Article 2
+We do not sell or rent your data to third parties.
 
-Mauris in nisi ex. Etiam ultricies ipsum id turpis blandit bibendum. Donec posuere elit nec odio vehicula blandit. Aliquam nulla velit, sagittis vitae tellus ut, efficitur faucibus diam. Maecenas id egestas sapien. Nunc sit amet ullamcorper risus. Etiam bibendum mattis ullamcorper. Nulla interdum ornare ipsum, quis efficitur libero tincidunt sed.
+---
 
-In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin. Phasellus sit amet iaculis nisi. Duis sit amet massa cursus, dapibus erat a, eleifend justo. Cras in felis tristique, aliquet est at, ultrices leo. Donec accumsan at quam id volutpat.
+## 3. Cookies & Analytics
 
-Curabitur sit amet laoreet urna. Donec vel lobortis nunc. Aliquam scelerisque ultrices ipsum vitae gravida. Nam semper, nibh vitae porttitor auctor, quam dui faucibus diam, sit amet vulputate ligula nibh sed dui. Cras viverra nisl vitae dictum auctor. Aliquam rhoncus dolor nibh, sit amet maximus eros blandit vitae. Sed maximus dui sit amet nibh pulvinar volutpat. Nam odio purus, porta quis ultrices vitae, ultricies non justo. Vestibulum elementum elementum vulputate. Proin facilisis ipsum ipsum, vel ornare orci vehicula sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis congue sit amet est ornare convallis. Etiam viverra bibendum elit vitae blandit. 
+We may use cookies and third-party services like Google Analytics or YouTube embeds. These help us:
+- Understand website traffic
+- Enhance the viewing experience (e.g., playing videos)
+- Save your site preferences
+
+You can disable cookies in your browser settings.
+
+---
+
+## 4. Third-Party Services
+
+The Living Directory may use services such as:
+- Google Analytics
+- YouTube (for embedded videos)
+- Email marketing providers (like Mailchimp or Buttondown)
+
+These services have their own privacy policies.
+
+---
+
+## 5. Your Rights
+
+You have the right to:
+- Access the personal data we have about you
+- Request correction or deletion of your data
+- Unsubscribe from newsletters at any time using the link in our emails
+
+---
+
+## 6. Children's Privacy
+
+This site is not intended for children under the age of 13. We do not knowingly collect personal data from children. If we become aware of such data, we will delete it promptly.
+
+---
+
+## 7. Updates to This Policy
+
+We may update this privacy policy occasionally. The latest version will always be available on this page, with the last updated date clearly shown.
+
+---
+
+## 8. Contact Us
+
+If you have any questions about this policy or how your data is handled, please contact:
+
+**The Living Directory**  
+{{< button "Contact Us" "/contact/" >}}
+---
+
+_Last updated: July 21, 2025_
 
 {{< /brick_wide >}}
