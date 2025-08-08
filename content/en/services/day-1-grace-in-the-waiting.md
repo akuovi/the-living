@@ -1,5 +1,6 @@
 ---
 title: Day 1 – Grace in the Waiting
+weight: 1
 image: /uploads/devotionals/day-1-still-lake.jpg
 tags:
   - grace

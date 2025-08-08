@@ -21,31 +21,38 @@ title: Home
 
 Our website offers more than just content—it’s a spiritual companion. With beautifully designed sections powered by Hugobricks, you’ll find:
 
-- Thoughtfully written **devotionals** and reflections
-- Guided **journals** to deepen your daily walk
-- A growing **library of spiritual tools**
-- Responsive design for peaceful browsing anywhere
-- A clean, distraction-free space to reflect and reconnect
+- Thoughtfully written **devotionals** and reflections  
+- Guided **journals** to deepen your daily walk  
+- A growing **library of spiritual tools**  
+- Responsive design for peaceful browsing anywhere  
+- A clean, distraction-free space to reflect and reconnect  
+{{< button "Read Our Devotionals" "/devotionals/" >}}
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
 
-## Building a Faithful Resource Library
+## Rooted in Scripture, Built for You  
 
 ![](/uploads/front/open-journal.jpg)
 
-Using Hugobricks, we’ve stacked together purposeful bricks like: intro, scripture, reflections, call-to-action, recommended books, devotionals, quotes, FAQs, video, and more.
+Every resource here is prayerfully created to help you stay grounded in God’s Word and grow in your faith journey. Whether you are seeking guidance, inspiration, or practical tools for your spiritual walk, our heart is to provide a place where grace meets growth.  
 
-We’re continually expanding our offerings. Have a suggestion or need a special resource? Let us know—we’re here to grow together.
+We invite you to:  
+
+{{< button "Browse Our Storehouse" "/docs/" >}}    
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## A Labor of Love and Light
+## A Labor of Love and Light  
 
 ![](/uploads/front/light-through-trees.jpg)
 
-This platform was prayerfully built as a space to pause, breathe, and return to the heart of your spiritual journey. Whether you’re reading a devotional, journaling through grief or grace, or exploring scripture, we hope you feel at home here.
+This platform was created with heartfelt prayer as a sacred space to pause, reflect, and reconnect with the core of your spiritual journey. Whether you’re engaging with devotionals, journaling through moments of grace or sorrow, or diving deep into scripture, our hope is that you find comfort and belonging here.
+
+If this ministry has blessed your heart, consider partnering with us through a gift. Your support helps us continue to share these resources freely and grow this community of faith.
+
+{{< button "Partner With Us in Giving" "/give/" >}}
 
 {{< /brick_image >}}
 {{< brick_quote >}}
@@ -59,7 +66,7 @@ This platform was prayerfully built as a space to pause, breathe, and return to 
 
 {{< brick_posts >}}
 
-# Latest Writings
+# Latest Writings  
 
 Stay connected with our newest posts on scripture, purpose, and spiritual practice.
 
@@ -68,7 +75,7 @@ Stay connected with our newest posts on scripture, purpose, and spiritual practi
 
 ![](/uploads/photos/books/books.jpg)
 
-# Our Books, Devotional Tools and Bible KJV
+# Our Books, Devotional Tools and Bible KJV  
 {{< button "Explore Our Storehouse" "/docs/" >}}
 
 {{< breadcrumbs >}}
@@ -76,4 +83,3 @@ Stay connected with our newest posts on scripture, purpose, and spiritual practi
 {{< /brick_title >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}
-

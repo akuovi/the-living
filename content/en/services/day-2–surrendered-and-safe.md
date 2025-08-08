@@ -1,5 +1,6 @@
 ---
 title: Day 2 – Surrendered and Safe
+weight: 2
 image: /uploads/devotionals/day-2-letting-go.jpg
 tags:
   - surrender

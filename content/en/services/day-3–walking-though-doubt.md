@@ -1,5 +1,6 @@
 ---
 title: Day 3 – Walking Through Doubt
+weight: 3
 image: /uploads/devotionals/day-3-winding-road.jpg
 tags:
   - doubt

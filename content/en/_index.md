@@ -26,6 +26,7 @@ Our website offers more than just content—it’s a spiritual companion. With b
 - A growing **library of spiritual tools**  
 - Responsive design for peaceful browsing anywhere  
 - A clean, distraction-free space to reflect and reconnect  
+{{< button "Read Our Devotionals" "/devotionals/" >}}
 
 {{< /brick_image >}}
 {{< brick_image2 >}}
@@ -38,9 +39,7 @@ Every resource here is prayerfully created to help you stay grounded in God’s 
 
 We invite you to:  
 
-{{< button "Browse Our Storehouse" "/docs/" >}}  
-{{< button "Read Our Devotionals" "/devotionals/" >}}  
-{{< button "Partner With Us in Giving" "/give/" >}}  
+{{< button "Browse Our Storehouse" "/docs/" >}}    
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
@@ -49,7 +48,11 @@ We invite you to:
 
 ![](/uploads/front/light-through-trees.jpg)
 
-This platform was prayerfully built as a space to pause, breathe, and return to the heart of your spiritual journey. Whether you’re reading a devotional, journaling through grief or grace, or exploring scripture, we hope you feel at home here.  
+This platform was created with heartfelt prayer as a sacred space to pause, reflect, and reconnect with the core of your spiritual journey. Whether you’re engaging with devotionals, journaling through moments of grace or sorrow, or diving deep into scripture, our hope is that you find comfort and belonging here.
+
+If this ministry has blessed your heart, consider partnering with us through a gift. Your support helps us continue to share these resources freely and grow this community of faith.
+
+{{< button "Partner With Us in Giving" "/give/" >}}
 
 {{< /brick_image >}}
 {{< brick_quote >}}

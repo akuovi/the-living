@@ -1,5 +1,6 @@
 ---
 title: Day 6 – The Beauty of Simplicity
+weight: 6
 image: /uploads/devotionals/day-6-focus-beauty.jpg
 tags:
   - simplicity

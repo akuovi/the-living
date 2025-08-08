@@ -1,5 +1,6 @@
 ---
 title: Day 8 – Light in the Darkness
+weight: 8
 image: /uploads/devotionals/day-8-candle.jpg
 tags:
   - light

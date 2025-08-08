@@ -1,5 +1,6 @@
 ---
 title: Day 10 – Peace Beyond Understanding
+weight: 10
 image: /uploads/devotionals/day-10-peaceful.jpg
 tags:
   - peace

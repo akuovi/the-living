@@ -1,5 +1,6 @@
 ---
 title: Day 4 – Joy in the Morning
+weight: 4
 image: /uploads/devotionals/day-4-sunflower.jpg
 tags:
   - joy

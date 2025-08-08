@@ -1,5 +1,6 @@
 ---
 title: Day 7 – Trusting the Shepherd
+weight: 7
 image: /uploads/devotionals/day-7-a-sheep.jpg
 tags:
   - guidance

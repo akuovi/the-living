@@ -1,5 +1,6 @@
 ---
 title: Day 5 – Strength for the Weary
+weight: 5
 image: /uploads/devotionals/day-5-resting.jpg
 tags:
   - strength

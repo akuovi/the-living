@@ -1,5 +1,6 @@
 ---
 title: Day 9 – A Heart of Gratitude
+weight: 9
 image: /uploads/devotionals/day-9-journaling.jpg
 tags:
   - gratitude

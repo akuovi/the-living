@@ -1,6 +1,7 @@
 ---
 title: About
 ---
+
 {{< brick_about >}}
 
 {{< colorize_image "This is not me" "/uploads/photos/avatars/aboutus.png" >}}
